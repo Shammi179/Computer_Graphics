@@ -3,4 +3,4 @@
 
 **OUTPUT**
 
-![](../picture/cycle.gif)
+![](../../picture/cycle.gif)

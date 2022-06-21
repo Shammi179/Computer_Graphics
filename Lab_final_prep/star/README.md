@@ -3,4 +3,4 @@
 
 **OUTPUT**
 
-![](../picture/star2.jpg)
+![](../../picture/star2.jpg)

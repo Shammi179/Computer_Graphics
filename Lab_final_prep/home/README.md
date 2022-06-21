@@ -1,6 +1,6 @@
-## Computer Graphics Lab - 1
-### Home
+## Computer Graphics (Moon)
+### Home with Moon
 
 **OUTPUT**
 
-![](../picture/house.png)
+![](../../picture/moon.png)
