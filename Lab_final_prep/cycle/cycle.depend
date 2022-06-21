@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655469708 source:d:\computer graphics lab\lab final prep\cycle\cycle.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1655469708 source:d:\computer graphics lab\lab_final_prep\cycle\cycle.c
+	<GL/gl.h>
+	<GL/glut.h>
+

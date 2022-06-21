@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654423080 source:d:\computer graphics lab\lab5extratask\lab5extra.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+

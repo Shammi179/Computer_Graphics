@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1655473748 source:d:\11th\computer graphics lab\lab final prep\boat\boat.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1655473923 source:d:\computer graphics lab\lab final prep\boat\boat.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1655473923 source:d:\computer graphics lab\lab_final_prep\boat\boat.c
+	<GL/gl.h>
+	<GL/glut.h>
+

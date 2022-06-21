@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653233998 source:d:\computer graphics lab\lab2\labclass2.c
+	<GL/gl.h>
+	<GL/glut.h>
+
