@@ -1,6 +1,6 @@
-## Computer Graphics Lab - 1
-### Home
+## Computer Graphics (Shape)
+### Shape
 
 **OUTPUT**
 
-![](../picture/house.png)
+![](../picture/shape1.png)

@@ -1,6 +1,6 @@
-## Computer Graphics Lab - 1
-### Home
+## Computer Graphics Fan
+### Fan
 
 **OUTPUT**
 
-![](../picture/house.png)
+![](../picture/fan1.png)
