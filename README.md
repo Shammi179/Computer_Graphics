@@ -15,5 +15,5 @@
 * [Moving Cycle](Lab_final_prep/cycle/)
 * [Moving Boat](Lab_final_prep/Boat/)
 * [Stars](Lab_final_prep/star/)
-* [Shape](Lab_final/)
-* [Fan with switchboard](Lab_final2/)
+* [Shape](lab_final/)
+* [Fan with switchboard](lab_final2/)
